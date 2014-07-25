@@ -1,0 +1,117 @@
+{
+ "name": "General Circle",
+ "children": [
+  {
+   "name": "Membership Circle",
+   "children": [
+    {
+     "name": "Member / Staff HR",
+     "children": [
+      {"name": "CR", "size": 7074}
+     ]
+    },
+    {
+     "name": "Recruitment",
+     "children": [
+      {"name": "Membership Drives", "size": 7074},
+      {"name": "Welcome Wagon", "size": 7074}
+     ]
+    },
+    {
+     "name": "Member Services and Benefits",
+     "children": [
+      {"name": "Annual Meeting", "size": 7074},
+	{"name": "Nomination and Election", "size": 7074},
+	{"name": "Benefit Development", "size": 7074},
+ {
+       "name": "Co-op Development",
+       "children": [
+        {"name": "Leadership Development", "size": 7074},
+        {"name": "Policy Development", "size": 7074}
+       ]
+      },
+	{"name": "POCA Office", "size": 7074}
+
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Finance Circle",
+   "children": [
+    {"name": "Oversee Fundraising", "size": 7074},
+    {"name": "FunctionSequence", "size": 7074},
+    {
+     "name": "Microlending",
+     "children": [
+      {"name": "Define Application Process", "size": 7074},
+      {"name": "Define Loan Terms", "size": 7074},
+      {"name": "Review / Approve Applications", "size": 7074}
+     ]
+    },
+    {"name": "R+D - Health / Retirement Benefits", "size": 7074}
+   ]
+  }
+ ,
+   {
+   "name": "Clinic Success Circle",
+   "children": [
+    {
+     "name": "Live Support",
+     "children": [
+      {"name": "Mentors / Mentees", "size": 7074}
+     ]
+    },
+    {
+	"name": "Best Practices",
+	"children": [
+      {"name": "Cohorts + Cohort Sponsors", "size": 7074},
+	{"name": "Clinic Survey", "size": 7074},
+	{"name": "LOC Hammer", "size": 7074}
+	]
+    }
+  
+ ]
+   },
+   {
+   "name": "Publications and Content Circle",
+   "children": [
+	{
+     "name": "POCA Website",
+     "children": [
+      {
+	"name": "Site Development / Management",  
+	"children": [
+      {"name": "Troubleshooting", "size": 7074},
+	{"name": "Information architecture", "size": 7074},
+	{"name": "DB Management", "size": 7074}    
+	]
+     },
+	{
+	"name": "Maintenance",  
+	"children": [
+      {"name": "Blogger Boss", "size": 7074},
+	{"name": "Forum mods", "size": 7074}
+	]
+	}
+	]
+	},
+	{
+	  "name": "Member P&C",
+	  "children": [
+	    {"name": "Newsletter and e-Circular", "size": 7074},
+	    {"name": "Books", "size": 7074}
+	    ]
+	    },
+	{
+	  "name": "Video",
+	  "children": [
+	    {"name": "POCA Tv", "size": 7074},
+	    {"name": "CEU content", "size": 7074}
+	    ]
+	}
+	]
+	},
+	{
+   "name": "Events Circle",
+   "children": [
