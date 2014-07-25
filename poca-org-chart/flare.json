@@ -115,3 +115,16 @@
 	{
    "name": "Events Circle",
    "children": [
+      {"name": "Regional Meetings", "size": 7074},
+    {
+     "name": "Workshop Coordination",
+     "children": [
+      {"name": "POCA Fest", "size": 7074},
+      {"name": "CA 101", "size": 7074}
+     ]
+    }
+     ]
+    }
+   ]
+  }
+	
